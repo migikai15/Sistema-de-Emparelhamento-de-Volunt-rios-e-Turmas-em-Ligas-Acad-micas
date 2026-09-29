@@ -1,0 +1,56 @@
+id,vertice,ano_escolar,disciplinas_necessarias,horarios_disponiveis
+30,A01,7º ano,Português,Seg 15h; Sex 15h
+31,A02,7º ano,Matemática,Ter 15h
+32,A03,8º ano,Inglês,Ter 15h; Qua 15h
+33,A04,3º ano,Ciências,Seg 15h; Qua 16h
+34,A05,9º ano,Geografia,Ter 14h
+35,A06,1º ano,Geografia,Ter 16h; Qua 14h; Qua 16h
+36,A07,3º ano,Português,Ter 16h
+37,A08,9º ano,Ciências; Matemática,Ter 15h; Qua 16h; Sex 14h
+38,A09,4º ano,Ciências; Português,Sex 14h
+39,A10,5º ano,Inglês,Seg 15h
+40,A11,1º ano,História,Qui 15h
+41,A12,2º ano,Ciências; Português,Ter 15h
+42,A13,6º ano,Português,Seg 14h
+43,A14,7º ano,Português,Seg 14h
+44,A15,2º ano,Matemática,Seg 15h
+45,A16,9º ano,Geografia; Inglês,Qua 15h; Sex 14h
+46,A17,1º ano,Português,Qui 14h
+47,A18,8º ano,Inglês,Qui 15h
+48,A19,6º ano,História; Inglês,Ter 15h; Sex 15h
+49,A20,6º ano,História,Seg 14h; Sex 16h
+50,A21,5º ano,História; Português,Ter 15h
+51,A22,7º ano,Ciências,Qua 16h
+52,A23,6º ano,Ciências,Seg 15h; Seg 16h; Qui 14h
+53,A24,2º ano,Matemática,Ter 16h; Qui 14h; Qui 15h
+54,A25,5º ano,Português,Ter 16h
+55,A26,7º ano,Português,Ter 14h; Qui 15h
+56,A27,3º ano,Ciências,Qua 16h; Qui 15h; Qui 16h
+57,A28,9º ano,Inglês,Ter 14h
+58,A29,1º ano,Português,Ter 15h; Qua 14h
+59,A30,6º ano,Inglês,Seg 15h; Seg 16h; Sex 15h
+60,A31,9º ano,História,Ter 15h; Ter 16h; Sex 15h
+61,A32,9º ano,História; Português,Qui 15h
+62,A33,4º ano,Matemática,Qui 15h
+63,A34,9º ano,Inglês,Ter 16h; Qui 16h
+64,A35,4º ano,Geografia; Português,Ter 16h
+65,A36,6º ano,Ciências,Qua 15h; Sex 14h; Sex 16h
+66,A37,5º ano,Matemática,Seg 16h; Qua 15h
+67,A38,1º ano,Geografia,Qua 14h; Qui 16h; Sex 14h
+68,A39,1º ano,Matemática; Português,Seg 16h; Ter 15h; Qui 16h
+69,A40,2º ano,Ciências,Ter 15h; Qui 14h; Sex 16h
+70,A41,1º ano,Português,Qui 15h; Sex 14h; Sex 15h
+71,A42,3º ano,Matemática; Português,Seg 14h; Ter 15h; Sex 16h
+72,A43,4º ano,Inglês,Ter 15h; Qua 16h
+73,A44,6º ano,Inglês,Qui 16h
+74,A45,1º ano,História; Inglês,Sex 14h; Sex 16h
+75,A46,9º ano,História,Seg 16h
+76,A47,6º ano,História; Matemática,Seg 14h; Qui 15h; Sex 14h
+77,A48,6º ano,Português,Qua 16h
+78,A49,3º ano,Ciências; Matemática,Seg 15h; Qua 15h
+79,A50,2º ano,Português,Seg 15h; Qui 15h
+80,A51,6º ano,Inglês,Qua 16h
+81,A52,9º ano,Geografia,Qua 15h; Qui 14h; Sex 15h
+82,A53,6º ano,Matemática,Sex 14h
+83,A54,8º ano,Português,Seg 16h; Ter 14h; Ter 16h
+84,A55,7º ano,Ciências; Português,Qua 15h; Qui 15h; Sex 15h

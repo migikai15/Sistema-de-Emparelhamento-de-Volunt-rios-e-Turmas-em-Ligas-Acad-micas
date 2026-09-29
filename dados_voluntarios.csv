@@ -1,0 +1,31 @@
+id,vertice,disciplinas,horarios_livres
+0,V01,Português,Seg 15h; Ter 14h; Qui 14h; Qui 15h; Sex 15h
+1,V02,Ciências; Geografia; História,Qua 15h; Qui 14h; Sex 14h; Sex 16h
+2,V03,Matemática; Português,Seg 14h; Qua 15h; Qui 15h
+3,V04,História; Matemática; Português,Qua 14h; Qua 16h; Qui 16h; Sex 14h
+4,V05,História,Ter 15h; Qua 16h; Sex 16h
+5,V06,Geografia; Português,Seg 14h; Ter 15h; Ter 16h; Qui 14h; Qui 16h
+6,V07,Matemática; Português,Seg 15h; Qua 14h; Qua 15h; Qua 16h; Sex 16h
+7,V08,Ciências; Geografia; Português,Seg 14h; Qua 15h; Qua 16h; Sex 14h; Sex 16h
+8,V09,Geografia; Inglês,Seg 15h; Qui 14h; Qui 15h; Qui 16h; Sex 16h
+9,V10,Ciências; Matemática; Português,Qua 15h; Qui 15h; Qui 16h
+10,V11,História; Inglês; Português,Ter 15h; Qua 16h; Qui 15h; Sex 16h
+11,V12,Geografia; Matemática; Português,Seg 14h; Seg 16h; Qui 15h; Sex 16h
+12,V13,Geografia; Inglês; Português,Ter 15h; Qua 15h; Qui 16h
+13,V14,Ciências; Geografia; Inglês,Seg 15h; Ter 16h; Qua 15h; Sex 14h
+14,V15,Ciências; Geografia; História,Seg 16h; Qua 14h; Qui 16h; Sex 16h
+15,V16,História; Inglês; Português,Qua 14h; Qui 16h; Sex 15h
+16,V17,Matemática; Português,Qua 15h; Qua 16h; Qui 14h
+17,V18,Ciências,Seg 15h; Ter 14h; Qui 14h
+18,V19,História,Ter 16h; Qui 15h; Sex 14h; Sex 16h
+19,V20,História; Matemática,Seg 16h; Qua 15h; Qui 16h; Sex 14h; Sex 15h
+20,V21,Matemática; Português,Seg 15h; Ter 15h; Qua 16h; Qui 16h; Sex 16h
+21,V22,Geografia; História; Inglês,Seg 16h; Ter 15h; Qua 14h; Qua 16h; Sex 14h
+22,V23,Inglês; Português,Seg 14h; Seg 15h; Ter 16h; Sex 16h
+23,V24,Inglês; Matemática,Ter 15h; Ter 16h; Qua 15h; Qui 15h
+24,V25,Ciências; Inglês,Seg 16h; Qui 14h; Sex 14h; Sex 16h
+25,V26,Ciências; Matemática,Ter 14h; Ter 16h; Qua 15h; Qui 14h; Qui 15h
+26,V27,Ciências,Seg 16h; Ter 14h; Qui 15h
+27,V28,História,Qua 15h; Sex 14h; Sex 15h
+28,V29,Ciências; História,Seg 16h; Qua 16h; Qui 15h
+29,V30,Ciências; Geografia,Seg 16h; Qui 15h; Sex 16h
