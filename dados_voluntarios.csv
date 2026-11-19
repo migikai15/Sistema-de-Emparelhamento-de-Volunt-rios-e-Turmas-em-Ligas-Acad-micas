@@ -1,0 +1,31 @@
+id,codigo,perfil,capacidade_semanal,disciplinas,horarios
+0,V01,Computação/Engenharias,1,Inglês; Ciências,Qua-14h; Qua-16h; Qui-16h; Sex-14h
+1,V02,Computação/Engenharias,2,Matemática; Ciências; Inglês,Ter-14h; Ter-16h; Qui-15h; Qui-16h; Sex-15h
+2,V03,Computação/Engenharias,2,Inglês; Matemática,Seg-14h; Sex-15h
+3,V04,Computação/Engenharias,2,Química,Ter-16h; Qui-15h; Sex-14h; Sex-15h
+4,V05,Computação/Engenharias,3,Matemática; Ciências; Inglês,Seg-16h; Qui-14h; Sex-15h
+5,V06,Ciências/Licenciaturas,1,Química; Inglês,Seg-16h; Qua-15h; Qui-15h
+6,V07,Computação/Engenharias,2,Matemática; Física,Seg-16h; Sex-14h; Sex-16h
+7,V08,Computação/Engenharias,2,Física; Matemática,Ter-14h; Qui-14h
+8,V09,Ciências/Licenciaturas,3,Ciências,Seg-15h; Ter-14h; Ter-15h; Qua-15h
+9,V10,Letras/Educação,2,Português,Seg-14h; Qui-15h; Qui-16h
+10,V11,Ciências/Licenciaturas,2,Matemática,Seg-14h; Seg-16h; Qua-14h; Qui-15h; Sex-15h
+11,V12,Computação/Engenharias,2,Matemática,Qui-14h; Sex-16h
+12,V13,Computação/Engenharias,2,Matemática; Física,Seg-15h; Ter-15h; Qua-16h; Qui-15h
+13,V14,Computação/Engenharias,1,Química,Seg-15h; Seg-16h; Sex-15h; Sex-16h
+14,V15,Letras/Educação,2,Português,Qua-16h; Sex-15h
+15,V16,Ciências/Licenciaturas,2,Química; Física,Seg-16h; Ter-14h; Ter-15h; Qui-16h; Sex-14h
+16,V17,Ciências/Licenciaturas,1,Matemática; Química,Seg-14h; Ter-15h; Ter-16h; Sex-14h; Sex-15h
+17,V18,Letras/Educação,2,Português,Ter-16h; Qui-15h
+18,V19,Computação/Engenharias,1,Química; Matemática,Seg-16h; Qua-16h; Qui-16h; Sex-16h
+19,V20,Computação/Engenharias,1,Física; Matemática,Ter-16h; Qua-16h; Sex-14h; Sex-16h
+20,V21,Computação/Engenharias,2,Inglês; Matemática,Qui-15h; Sex-16h
+21,V22,Computação/Engenharias,2,Física; Matemática,Qui-14h; Sex-16h
+22,V23,Computação/Engenharias,2,Matemática; Ciências; Química,Seg-14h; Seg-16h; Ter-14h; Qua-15h
+23,V24,Computação/Engenharias,2,Ciências,Qua-14h; Qui-15h; Sex-15h
+24,V25,Computação/Engenharias,2,Matemática,Seg-16h; Ter-15h; Ter-16h
+25,V26,Computação/Engenharias,1,Física; Matemática,Seg-14h; Ter-14h; Qua-15h; Sex-15h
+26,V27,Computação/Engenharias,1,Inglês; Física,Seg-15h; Ter-15h; Ter-16h; Qua-15h; Sex-16h
+27,V28,Computação/Engenharias,2,Matemática; Inglês,Seg-14h; Seg-16h; Sex-16h
+28,V29,Computação/Engenharias,2,Matemática,Seg-15h; Qui-15h; Qui-16h; Sex-16h
+29,V30,Ciências/Licenciaturas,1,Física; Ciências,Qua-14h; Qui-14h

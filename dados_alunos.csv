@@ -1,0 +1,56 @@
+id,codigo,nivel,etapa,disciplinas,horarios
+30,A01,Ensino Fundamental,9º ano EF,Português,Seg-14h; Seg-15h
+31,A02,Ensino Fundamental,9º ano EF,Ciências,Ter-14h; Qua-15h; Sex-15h
+32,A03,Ensino Fundamental,8º ano EF,Português; Inglês,Seg-15h; Qua-15h
+33,A04,Ensino Fundamental,9º ano EF,Matemática,Seg-14h; Ter-15h
+34,A05,Ensino Fundamental,9º ano EF,Matemática; Português,Seg-14h; Ter-16h; Qua-16h
+35,A06,Ensino Fundamental,7º ano EF,Ciências; Matemática,Ter-14h; Qua-15h; Sex-16h
+36,A07,Ensino Fundamental,8º ano EF,Matemática; Ciências,Sex-15h
+37,A08,Ensino Fundamental,7º ano EF,Matemática,Sex-14h; Sex-16h
+38,A09,Ensino Fundamental,7º ano EF,Matemática; Ciências,Seg-14h; Seg-16h; Qui-16h
+39,A10,Ensino Fundamental,8º ano EF,Português; Matemática,Qui-15h
+40,A11,Ensino Fundamental,6º ano EF,Matemática,Ter-15h; Sex-15h
+41,A12,Ensino Fundamental,7º ano EF,Matemática; Português,Qua-14h
+42,A13,Ensino Fundamental,6º ano EF,Matemática; Português,Ter-16h; Qui-14h
+43,A14,Ensino Fundamental,7º ano EF,Matemática; Inglês,Ter-15h; Qua-15h
+44,A15,Ensino Fundamental,7º ano EF,Português; Matemática,Seg-15h; Qui-15h
+45,A16,Ensino Fundamental,7º ano EF,Matemática,Seg-16h; Ter-14h; Qua-15h
+46,A17,Ensino Fundamental,7º ano EF,Ciências,Ter-15h; Qua-14h
+47,A18,Ensino Fundamental,9º ano EF,Ciências; Matemática,Qua-14h; Qua-15h; Qua-16h
+48,A19,Ensino Fundamental,6º ano EF,Português; Matemática,Sex-15h
+49,A20,Ensino Fundamental,7º ano EF,Matemática; Inglês,Seg-14h; Ter-15h
+50,A21,Ensino Fundamental,9º ano EF,Ciências,Qua-16h; Qui-15h
+51,A22,Ensino Fundamental,8º ano EF,Ciências; Português,Qua-15h; Sex-16h
+52,A23,Ensino Fundamental,8º ano EF,Português,Ter-14h; Ter-15h; Ter-16h
+53,A24,Ensino Fundamental,9º ano EF,Matemática,Ter-16h; Qui-16h
+54,A25,Ensino Fundamental,8º ano EF,Matemática,Seg-15h; Sex-14h
+55,A26,Ensino Fundamental,9º ano EF,Português,Seg-15h; Ter-14h; Qui-14h
+56,A27,Ensino Fundamental,9º ano EF,Matemática; Ciências,Sex-14h; Sex-15h
+57,A28,Ensino Fundamental,9º ano EF,Matemática,Seg-14h; Qua-16h; Sex-14h
+58,A29,Ensino Fundamental,6º ano EF,Matemática,Seg-14h; Qui-14h
+59,A30,Ensino Fundamental,6º ano EF,Português; Matemática,Qua-15h
+60,A31,Ensino Médio,2ª série EM,Matemática; Física,Seg-15h
+61,A32,Ensino Médio,1ª série EM,Química; Português,Qua-14h; Qui-15h
+62,A33,Ensino Médio,3ª série EM,Matemática,Ter-14h; Sex-16h
+63,A34,Ensino Médio,1ª série EM,Química; Matemática,Seg-16h; Qui-14h; Sex-14h
+64,A35,Ensino Médio,1ª série EM,Português,Seg-14h; Sex-16h
+65,A36,Ensino Médio,3ª série EM,Matemática,Qua-14h
+66,A37,Ensino Médio,1ª série EM,Matemática; Física,Qui-15h; Sex-15h
+67,A38,Ensino Médio,1ª série EM,Matemática,Qua-16h; Qui-15h
+68,A39,Ensino Médio,3ª série EM,Química,Ter-16h
+69,A40,Ensino Médio,3ª série EM,Física; Matemática,Qua-14h; Qua-16h; Qui-15h
+70,A41,Ensino Médio,1ª série EM,Matemática,Seg-14h
+71,A42,Ensino Médio,3ª série EM,Matemática,Seg-16h; Qua-15h; Sex-15h
+72,A43,Ensino Médio,2ª série EM,Física; Matemática,Qui-16h; Sex-16h
+73,A44,Ensino Médio,3ª série EM,Química; Matemática,Qua-16h
+74,A45,Ensino Médio,3ª série EM,Física,Sex-16h
+75,A46,Ensino Médio,3ª série EM,Português,Qua-15h; Sex-14h
+76,A47,Ensino Médio,3ª série EM,Física,Qua-15h
+77,A48,Ensino Médio,3ª série EM,Química,Qui-16h
+78,A49,Ensino Médio,1ª série EM,Matemática,Qui-15h; Sex-15h
+79,A50,Ensino Médio,3ª série EM,Português; Inglês,Ter-15h; Qua-15h
+80,A51,Ensino Médio,3ª série EM,Matemática; Português,Ter-14h
+81,A52,Ensino Médio,3ª série EM,Matemática,Seg-15h; Ter-14h; Sex-15h
+82,A53,Ensino Médio,1ª série EM,Química,Seg-16h; Qua-15h; Qui-16h
+83,A54,Ensino Médio,3ª série EM,Inglês,Qui-16h
+84,A55,Ensino Médio,2ª série EM,Matemática; Física,Ter-15h
