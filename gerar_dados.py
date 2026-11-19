@@ -1,22 +1,4 @@
 #!/usr/bin/env python3
-"""
-===============================================================================
-Universidade Presbiteriana Mackenzie - Faculdade de Computacao e Informatica
-Disciplina: Teoria dos Grafos - Turma 6o D - Prof. Dr. Ivan Carlos Alcantara
-Integrante: Gabriel Tortolio Fonseca - RA: 10416751
-
-Sintese:
-  Script gerador de dados sinteticos fundamentados em pesquisas educacionais
-  reais (Todos Pela Educacao / Saeb 2025, TIMSS 2024, SciELO, PePSIC e UNIVAP)
-  para o Sistema de Emparelhamento de Voluntarios e Turmas em Ligas Academicas.
-  Gera os arquivos dados_voluntarios.csv, dados_alunos.csv e grafo.txt (tipo 2).
-
-Historico de alteracoes:
-  - 2026-09-20 | Gabriel Tortolio Fonseca | Versao inicial com dados sinteticos uniformes (Parte 2).
-  - 2026-11-19 | Gabriel Tortolio Fonseca | Refatoracao dos criterios de geracao com base em
-    Saeb 2025, TIMSS 2024 e artigos academicos; inclusao de Ensino Medio e capacidade semanal c(u).
-===============================================================================
-"""
 
 import random
 import csv
@@ -32,7 +14,6 @@ DISCIPLINAS = ["Matemática", "Português", "Física", "Química", "Ciências", 
 ETAPAS_EF = ["6º ano EF", "7º ano EF", "8º ano EF", "9º ano EF"]
 ETAPAS_EM = ["1ª série EM", "2ª série EM", "3ª série EM"]
 
-# Pesos de demanda calibrados por pesquisas educacionais brasileiras
 PESOS_EF = {"Matemática": 0.42, "Português": 0.28, "Ciências": 0.18, "Inglês": 0.12, "Física": 0.00, "Química": 0.00}
 PESOS_EM = {"Matemática": 0.36, "Português": 0.20, "Física": 0.20, "Química": 0.16, "Inglês": 0.08, "Ciências": 0.00}
 

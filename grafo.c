@@ -596,7 +596,7 @@ void analisar_graus(const Grafo *g) {
     }
     if (!encontrou) printf("Nenhum");
     printf("\n");
-
+}
 void analisar_coloracao_biparticao(const Grafo *g) {
     int cor[MAX_VERTICES];
     int fila[MAX_VERTICES];
